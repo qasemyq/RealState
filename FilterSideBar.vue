@@ -78,7 +78,7 @@
         width: 100%
     }
 }
-
+ 
 .panel-heading {
     padding: 0;
     border: 0;
