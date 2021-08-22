@@ -25,7 +25,7 @@
                             <!--Footer Column-->
                             <div class="footer-column col-lg-5 col-md-6 col-sm-12">
                                 <div class="footer-widget links-widget">
-                                    <h2>Quick Links</h2>
+                                    <h2>Quick Links</h2> 
                                     <ul class="footer-list">
                                         <li><a href="#">Company History</a></li>
                                         <li><a href="#">About Us</a></li>
