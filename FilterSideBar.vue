@@ -40,7 +40,7 @@
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">12 INCH - 12.9 INCH</span> </label> </div>
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">13 INCH - 13.9 INCH</span> </label> </div>
                     </div>
-                </div>
+                </div> 
             </div>
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="heading4">
