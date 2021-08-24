@@ -1,6 +1,6 @@
 <template>
     <div>
-  <div class="d-flex justify-content-center">
+  <div class="d-flex justify-content-center"> 
     <div class="wrapper center-block">
         <div class="filters-text">
             <span class="filter-span">Filters <small>(find product using filters below)</small></span>
