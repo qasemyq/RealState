@@ -77,7 +77,7 @@
     .wrapper {
         width: 100%
     }
-}
+} 
  
 .panel-heading {
     padding: 0;
