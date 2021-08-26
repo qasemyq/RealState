@@ -16,7 +16,7 @@
                                     <div class="logo">
                                         <a href="#"><img src="https://i.ibb.co/wBkDzLb/ak-logo-red-blue.png" alt="" /></a>
                                     </div>
-                                    <div class="text">
+                                    <div class="text"> 
                                         <p>Number 1 Real State in Italy</p>
                                     </div>
                                 </div>
