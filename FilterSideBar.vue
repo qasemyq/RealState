@@ -54,7 +54,7 @@
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">MAC OS</span> </label> </div>
                     </div>
                 </div>
-            </div>
+            </div> 
         </div>
         <div class="text-right refine"> <button class="btn btn-out btn-primary btn-square" id="button-filter">Refine Search</button> </div>
     </div>
