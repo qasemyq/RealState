@@ -8,7 +8,7 @@
         </div> 
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="heading1">
+                <div class="panel-heading" role="tab" id="heading1"> 
                     <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1"> Processors </a> </h4>
                 </div>
                 <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
