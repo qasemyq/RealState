@@ -35,7 +35,7 @@
                     <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3"> Screen Size </a> </h4>
                 </div>
                 <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
-                    <div class="panel-body">
+                    <div class="panel-body"> 
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">BELOW 12.9 INCH</span> </label> </div>
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">12 INCH - 12.9 INCH</span> </label> </div>
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">13 INCH - 13.9 INCH</span> </label> </div>
