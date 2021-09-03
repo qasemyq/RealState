@@ -10,7 +10,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="heading1"> 
                     <h4 class="panel-title"> <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1"> Processors </a> </h4>
-                </div>
+                </div> 
                 <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
                     <div class="panel-body">
                         <div class="checkbox"> <label> <input type="checkbox" class="option-input checkbox" name="filter[]" value="12" /> <span class="ml-10">CORE i5</span> </label> </div>
