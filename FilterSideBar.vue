@@ -5,7 +5,7 @@
         <div class="filters-text">
             <span class="filter-span">Filters <small>(find product using filters below)</small></span>
             <span style="float:right;"><i class="fa fa-filter"></i></span>
-        </div> 
+        </div>  
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="heading1"> 
