@@ -8,7 +8,7 @@
 export default {
     name: 'Login'
 }
-</script>
+</script> 
 
 <style scoped>
 
