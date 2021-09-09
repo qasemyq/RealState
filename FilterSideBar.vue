@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </div> 
-        </div>
+        </div> 
         <div class="text-right refine"> <button class="btn btn-out btn-primary btn-square" id="button-filter">Refine Search</button> </div>
     </div>
 </div>
