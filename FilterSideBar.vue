@@ -2,7 +2,7 @@
     <div>
   <div class="d-flex justify-content-center"> 
     <div class="wrapper center-block">
-        <div class="filters-text">
+        <div class="filters-text"> 
             <span class="filter-span">Filters <small>(find product using filters below)</small></span>
             <span style="float:right;"><i class="fa fa-filter"></i></span>
         </div>  
