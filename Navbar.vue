@@ -1,7 +1,7 @@
 <template>
  <div>
   <b-navbar toggleable="lg" type="dark" variant="primary">
-<div>
+<div> 
   <b-img src="https://picsum.photos/1024/400/?image=41"  style="width: 150px; height: 50px;" fluid alt="Left image"></b-img>
 </div>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
