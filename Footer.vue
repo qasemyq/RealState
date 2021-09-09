@@ -4,7 +4,7 @@
         <div class="container">
             <!--Widgets Section-->
             <div class="widgets-section">
-                <div class="row clearfix">
+                <div class="row clearfix"> 
                     
                     <!--Column-->
                     <div class="big-column col-lg-6 col-md-12 col-sm-12">
