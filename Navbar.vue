@@ -20,7 +20,7 @@
         </b-navbar-nav>
 
         <b-navbar-nav>
-          <b-nav-item href="#">Your Messages</b-nav-item>
+          <b-nav-item href="#">Your Messages</b-nav-item> 
         </b-navbar-nav>
 
         <b-navbar-nav>
