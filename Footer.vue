@@ -7,7 +7,7 @@
                 <div class="row clearfix"> 
                     
                     <!--Column-->
-                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12"> 
                         <div class="row clearfix">
                          
                             <!--Footer Column-->
